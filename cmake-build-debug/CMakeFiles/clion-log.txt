@@ -1,0 +1,4 @@
+/home/tk/Clion/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc-6 -DCMAKE_CXX_COMPILER=/usr/bin/g++-6 -G "CodeBlocks - Unix Makefiles" /home/tk/project/chacha
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tk/project/chacha/cmake-build-debug

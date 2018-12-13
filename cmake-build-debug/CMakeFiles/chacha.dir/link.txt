@@ -1,0 +1,1 @@
+/usr/bin/gcc-6 -g   CMakeFiles/chacha.dir/chacha20.c.o  -o chacha 
